@@ -1,0 +1,58 @@
+div#test
+{ 
+	border:#ffd100 15px solid;
+	padding:10px 40px 40px 40px;
+	margin-top: 30px;
+    margin-bottom: 40px;
+    margin-right: 300px;
+	background: white;
+}
+
+progress#progressBar
+{
+	background: pink;
+}
+
+h2#test_status
+{ 
+	color: white;
+	background: black;
+	max-width: 260px;
+	border: solid grey;
+}
+
+h2#timer
+{ 
+	color: white;
+	background: black;
+	max-width: 70px;
+	border: solid grey;
+	text-align: center;
+}
+
+body
+{
+	background-image: url("../img/G2.jpg");
+	padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 100px;
+    padding-left: 200px;
+}
+
+div.green
+{
+	width: 20px;
+	height: 20px;
+	background-color: green;
+	text-align: center;
+	color: white;
+}
+
+div.red
+{
+	width: 20px;
+	height: 20px;
+	background-color: red;
+	text-align: center;
+	color: white;
+}
